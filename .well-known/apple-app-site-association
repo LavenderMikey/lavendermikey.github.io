@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "29L8DWWN48.com.shizao.app",
+        "paths": ["/wechat/*"]
+      }
+    ]
+  }
+}
